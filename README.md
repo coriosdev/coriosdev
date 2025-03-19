@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Cristhian Rios!
 
 I'm a **PHP Developer** with over **10 years of experience** building scalable and efficient web applications. My expertise lies in backend development, database management, and containerized environments. I enjoy crafting clean, maintainable code and optimizing system performance.
 
@@ -27,8 +27,8 @@ I'm a **PHP Developer** with over **10 years of experience** building scalable a
 - Use **Docker and Linux** to streamline development and deployment workflows.
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **GitHub:** [github.com/coriosdev](https://github.com/coriosdev)
+- **LinkedIn:** [linkedin.com/in/coriosdev](https://linkedin.com/in/coriosdev)
+- **Email:** coriosdev@gmail.com
 
 🚀 _Let's build something amazing together!_
