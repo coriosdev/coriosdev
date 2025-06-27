@@ -12,7 +12,7 @@ I'm a **PHP Developer** with over **10 years of experience** building scalable a
 ### 🌐 Frontend
 - **jQuery (Advanced)**
 - **React.js (Mid)**
-- **Angular (Mid)**
+- **Angular (Basic)**
 
 ### 🛠 DevOps & Tools
 - **Docker (Mid)**
