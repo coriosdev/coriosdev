@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cristhian Rios!
 
-I'm a **PHP Developer** with over **10 years of experience** building scalable and efficient web applications. My expertise lies in backend development, database management, and containerized environments. I enjoy crafting clean, maintainable code and optimizing system performance.
+I'm a **PHP Developer** with over **9 years of experience** building scalable and efficient web applications. My expertise lies in backend development, database management, and containerized environments. I enjoy crafting clean, maintainable code and optimizing system performance.
 
 ## 🚀 Tech Stack
 
